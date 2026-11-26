@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DynamicsDataImporter": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
